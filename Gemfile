@@ -46,5 +46,7 @@ group :development do
  
   #ImageMagick resize images
  gem 'mini_magick'
+ 
+ gem 'devise'
 end
 
